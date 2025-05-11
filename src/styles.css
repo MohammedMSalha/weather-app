@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    background: #f0f2f5;
+    padding: 2rem;
+  }
+  .container {
+    max-width: 400px;
+    margin: auto;
+    background: white;
+    padding: 2rem;
+    border-radius: 1rem;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+  input {
+    padding: 0.5rem;
+    width: 70%;
+    margin-right: 0.5rem;
+  }
+  button {
+    padding: 0.5rem 1rem;
+  }
+  .card {
+    margin-top: 1rem;
+    padding: 1rem;
+    background: #e3f2fd;
+    border-radius: 0.5rem;
+  }
+  
